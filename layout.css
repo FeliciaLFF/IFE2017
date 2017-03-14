@@ -24,8 +24,9 @@ button{
 	border:none;
 	border-radius: 5px;
 }
-#info{
+#name-info,#pw1-info,#pw2-info,#email-info,#phone-info{
 	color: #ccc;
-	font-size: 20px;
+	font-size: 15px;
 	vertical-align: top;
+	opacity: 0;
 }
